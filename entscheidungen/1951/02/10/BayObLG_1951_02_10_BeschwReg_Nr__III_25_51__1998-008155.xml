@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entv PUBLIC "-//Handelsblatt Fachmedien//DTD V1.0//DE" "hbfm.dtd">
+<entv sid="1023068" docid="RS1023068" rawid="1023068" extid="Deubner_DRSP_1998/008155">
+<metadata>
+<title>Beschwerde gegen die Ablehnung einzelner Beweismittel</title>
+<leitsaetze>
+<leitsatz><p>»Dem Angeschuldigten ist gegen die Ablehnung einzelner Beweismittel, die er im Verfahren nach § 201 Abs. 2 StPO beantragt, keine Beschwerdemöglichkeit gegeben.«</p></leitsatz>
+</leitsaetze>
+<pub>
+<pubtitle></pubtitle>
+<pubabbr>RS</pubabbr>
+<pubyear></pubyear>
+<pubedition></pubedition>
+<date></date>
+<pages><start_page></start_page><article_order></article_order></pages>
+</pub>
+<instdoc>
+<inst code="BayObLG" type="court">BayObLG</inst>
+<instdoctype>Beschluss</instdoctype>
+<instdocdate>1951-02-10</instdocdate>
+<instdocnrs>
+<instdocnr>BeschwReg Nr. III 25/51</instdocnr></instdocnrs>
+<citations>
+<citation>BayObLGSt 1951, 301</citation></citations>
+</instdoc>
+<law_refs>
+<law_ref>StPO § 201</law_ref>
+</law_refs>
+<all_doc_type level="1">ent</all_doc_type>
+<all_source level="1">rsv</all_source>
+<all_source level="2">rsv_collection</all_source>
+</metadata>
+<body>
+</body>
+</entv>

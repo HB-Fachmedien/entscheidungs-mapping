@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entv PUBLIC "-//Handelsblatt Fachmedien//DTD V1.0//DE" "hbfm.dtd">
+<entv sid="1023066" docid="RS1023066" rawid="1023066" extid="Deubner_DRSP_1998/008153">
+<metadata>
+<title>Wiedereinsetzung in den vorigen Stand wegen Rechtsirrtums</title>
+<leitsaetze>
+<leitsatz><p>»Ein Rechtsirrtum des Angeklagten kann die Wiedereinsetzung in den vorigen Stand gegen die Versäumung einer Frist nicht rechtfertigen; er muß sich bei einer geeigneten Stelle Auskunft erholen. Hat er aber einen staatlich zugelassenen Rechtsanwalt mit seiner Verteidigung betraut, dann darf er sich darauf verlassen, daß dieser seiner Aufgabe gewachsen ist und ihn den gesetzlichen Vorschriften entsprechend vertritt. Die Folgen, die sich aus einem Rechtsirrtum des Rechtsanwalts oder aus einer unrichtigen Rechtsbelehrung durch den Rechtsanwalt für den Angeklagten ergeben, sind für diesen unabwendbar im Sinne des § 44 StPO.«</p></leitsatz>
+</leitsaetze>
+<pub>
+<pubtitle></pubtitle>
+<pubabbr>RS</pubabbr>
+<pubyear></pubyear>
+<pubedition></pubedition>
+<date></date>
+<pages><start_page></start_page><article_order></article_order></pages>
+</pub>
+<instdoc>
+<inst code="BayObLG" type="court">BayObLG</inst>
+<instdoctype>Beschluss</instdoctype>
+<instdocdate>1951-01-30</instdocdate>
+<instdocnrs>
+<instdocnr>BeschwReg Nr. III 1/51</instdocnr></instdocnrs>
+<citations>
+<citation>BayObLGSt 1951, 276</citation></citations>
+</instdoc>
+<law_refs>
+<law_ref>StPO § 44</law_ref>
+</law_refs>
+<all_doc_type level="1">ent</all_doc_type>
+<all_source level="1">rsv</all_source>
+<all_source level="2">rsv_collection</all_source>
+</metadata>
+<body>
+</body>
+</entv>

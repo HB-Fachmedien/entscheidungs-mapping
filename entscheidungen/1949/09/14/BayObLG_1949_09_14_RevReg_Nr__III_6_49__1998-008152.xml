@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entv PUBLIC "-//Handelsblatt Fachmedien//DTD V1.0//DE" "hbfm.dtd">
+<entv sid="1023065" docid="RS1023065" rawid="1023065" extid="Deubner_DRSP_1998/008152">
+<metadata>
+<title>Rüge des Protokolls der Hauptverhandlung</title>
+<leitsaetze>
+<leitsatz><p>»Die Rüge, das Protokoll gebe nicht, wie es in § 273 Abs. 1 StPO vorgeschrieben sei, den Gang und die Ergebnisse der Hauptverhandlung im wesentlichen wieder, kann als reine Protokollrüge für sich allein niemals eine Revision begründen, da das Urteil nicht auf dem Protokoll, sondern auf der Hauptverhandlung beruht. Daher ist auch die Frage, ob eine nachträgliche Berichtigung oder Ergänzung des Protokolls vom Revisionsgericht berücksichtigt werden darf, für den Erfolg dieser Rüge ohne Bedeutung.«</p></leitsatz>
+</leitsaetze>
+<pub>
+<pubtitle></pubtitle>
+<pubabbr>RS</pubabbr>
+<pubyear></pubyear>
+<pubedition></pubedition>
+<date></date>
+<pages><start_page></start_page><article_order></article_order></pages>
+</pub>
+<instdoc>
+<inst code="BayObLG" type="court">BayObLG</inst>
+<instdoctype>Urteil</instdoctype>
+<instdocdate>1949-09-14</instdocdate>
+<instdocnrs>
+<instdocnr>RevReg Nr. III 6/49</instdocnr></instdocnrs>
+<citations>
+<citation>BayObLGSt 1949, 32</citation></citations>
+</instdoc>
+<law_refs>
+<law_ref>StPO §§ 273, 337</law_ref>
+</law_refs>
+<all_doc_type level="1">ent</all_doc_type>
+<all_source level="1">rsv</all_source>
+<all_source level="2">rsv_collection</all_source>
+</metadata>
+<body>
+</body>
+</entv>

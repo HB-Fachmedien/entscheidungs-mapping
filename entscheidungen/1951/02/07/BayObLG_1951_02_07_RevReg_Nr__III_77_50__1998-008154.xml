@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entv PUBLIC "-//Handelsblatt Fachmedien//DTD V1.0//DE" "hbfm.dtd">
+<entv sid="1023067" docid="RS1023067" rawid="1023067" extid="Deubner_DRSP_1998/008154">
+<metadata>
+<title>Aufhebung eines durch ein Siegel bewirkten amtlichen Verschlusses</title>
+<leitsaetze>
+<leitsatz><p>»Ob in der Tat des Beschuldigten die Aufhebung eines durch ein Siegel bewirkten amtlichen Verschlusses zu erblicken ist, bestimmt sich nach dem Inhalt des Verbotes, dessen Beachtung durch die Siegelung erzwungen werden soll.«</p></leitsatz>
+</leitsaetze>
+<pub>
+<pubtitle></pubtitle>
+<pubabbr>RS</pubabbr>
+<pubyear></pubyear>
+<pubedition></pubedition>
+<date></date>
+<pages><start_page></start_page><article_order></article_order></pages>
+</pub>
+<instdoc>
+<inst code="BayObLG" type="court">BayObLG</inst>
+<instdoctype>Urteil</instdoctype>
+<instdocdate>1951-02-07</instdocdate>
+<instdocnrs>
+<instdocnr>RevReg Nr. III 77/50</instdocnr></instdocnrs>
+<citations>
+<citation>BayObLGSt 1951, 299</citation></citations>
+</instdoc>
+<law_refs>
+<law_ref>StGB § 136</law_ref>
+</law_refs>
+<all_doc_type level="1">ent</all_doc_type>
+<all_source level="1">rsv</all_source>
+<all_source level="2">rsv_collection</all_source>
+</metadata>
+<body>
+</body>
+</entv>
