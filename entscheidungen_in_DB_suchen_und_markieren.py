@@ -10,7 +10,7 @@ datei = open('zitierte_rs_nummern.txt')
 rs_nummern = datei.readlines()
 #print("test")
 
-sqlite_file = './prod_entscheidungs_db-Kopie.sqlite'
+sqlite_file = './neu_prod_entscheidungs_db.sqlite'
 con = sqlite3.connect(sqlite_file)
 cur = con.cursor()
 
